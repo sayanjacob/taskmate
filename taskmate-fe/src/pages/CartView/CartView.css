@@ -1,0 +1,79 @@
+.btn-back {
+  border-radius: 50%;
+  border: none;
+  background-color: rgb(230, 230, 230);
+}
+.btn-back:hover {
+  background-color: rgb(227, 233, 239);
+  transition: ease-in-out(1s);
+}
+.bookingvalue {
+  color: rgba(0, 0, 0, 0.648);
+  font-weight: 400;
+}
+.bookingtitle {
+  font-weight: 600;
+}
+.iconbg {
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.041);
+}
+.cart-check-btn {
+  background-color: black;
+  color: white;
+  width: 120px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.cart-check-btn:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+
+.edit-btn {
+  background-color: white;
+  color: black;
+  font-size: 14px;
+  width: 55px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.edit-btn:hover {
+  background-color: black;
+  color: white;
+
+  border: 1px solid black;
+}
+.cart-cal-btn {
+  width: 200px;
+}
+
+.address-input {
+  width: auto;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.address-input:focus {
+  border: 1px solid #6e42e5 !important;
+}
+
+.address-update-btn {
+  background-color: black;
+  color: white;
+  width: 150px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.address-update-btn:hover {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+.total{
+  border-top: 1px dashed rgb(190, 190, 190);
+  
+
+}
+
+

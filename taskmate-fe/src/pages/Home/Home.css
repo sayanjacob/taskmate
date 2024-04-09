@@ -1,0 +1,13 @@
+.home{
+    background-color: white;
+}
+
+.bg-cardser{
+    background-color: white;
+    border-radius: 7px;
+}
+.bg-cardser:hover{
+    scale: 1.005;
+    background-color:#E0E7E7;
+
+}

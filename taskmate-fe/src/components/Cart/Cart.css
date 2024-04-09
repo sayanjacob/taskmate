@@ -1,0 +1,33 @@
+.cartbtn {
+    background-color: #EDE8FC !important;
+    border-color: #6E42E5 !important;
+    color: #6E42E5 !important;
+    box-shadow: none;
+    border-width: 0;
+    transition: background-color 0.3s, border-width 0.3s; /* Add a transition effect */
+}
+
+.cartbtn:hover {
+    background-color: #6E42E5 !important; /* Change the background color on hover */
+    border-width: 1.2px; /* Increase the border width on hover */
+    color: white!important;
+}
+
+.cartviewbtn{
+    background-color: #784EE7 !important;
+    border-color: #6E42E5 !important;
+    color: white !important;
+    box-shadow: none;
+    border-width: 0;
+    transition: background-color 0.3s, border-width 0.3s;
+
+
+}
+
+.cartviewbtn:hover {
+    background-color: white !important; /* Change the background color on hover */
+    border-width: 1.2px;
+     /* Increase the border width on hover */
+    color: #6E42E5!important;
+    border-color: #6E42E5;
+}

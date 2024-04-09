@@ -1,0 +1,104 @@
+.navbar {
+    font-family: 'Gabarito', cursive;
+    background-color: white;
+    max-height: 10vh;
+
+
+}
+
+.modal {
+    font-family: 'Gabarito', cursive;
+
+}
+
+.custom-align-right {
+    margin-left: auto;
+    /* padding-right: 2vw; */
+}
+
+.nav-link {
+
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+.nav-link:hover {
+    color: gray;
+    scale: 1.01;
+}
+
+.nav-item {
+    padding-right: 1.2vw;
+    padding-left: 1.2vw;
+}
+
+.nav-btn {
+    background-color: #202020;
+    color: white;
+    border-radius: 10px;
+    border-width: 0;
+}
+
+.nav-btn:hover {
+    background-color: black;
+    scale: 1.01;
+
+}
+
+.search {
+    border-radius: 0px;
+}
+
+.search:hover {
+    border-color: black;
+    box-shadow: none;
+}
+
+.navbg {
+    background-color: white;
+}
+
+.form-control {
+    border-radius: 0px !important;
+    outline: none !important;
+    box-shadow:none !important;
+    border-radius: 20px !important;
+}
+
+.form-control:focus {
+    outline: none !important;
+    box-shadow:none !important;
+    border: 1.2px solid #6e42e5 !important;
+    
+}
+
+
+
+.form-btn {
+    background-color: #6E42E5 !important;
+    width: 100%;
+
+}
+
+.form-btn:hover{
+    
+    transition: ease-in-out;
+}
+
+.form-btn-si{
+    background-color: #7046e3 !important;
+    width: 100%;
+
+}
+
+.cityname{
+    border: 1px solid rgb(214, 214, 214);
+    border-radius: 10px;
+
+}
+.cityname:hover{
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 10px;
+
+}

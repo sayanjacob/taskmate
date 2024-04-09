@@ -1,0 +1,38 @@
+.payment-title {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.payment-subtitle {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.unavailable-text {
+  font-size: 9px;
+  color: tomato;
+  opacity: 50%;
+}
+.payment-method {
+  font-size: 12px;
+  font-weight: 500;
+}
+.disabled-payments {
+  opacity: 50%;
+}
+.disabled-ico {
+  opacity: 25%;
+}
+.payment-button {
+  background-color: #6e42e5;
+  color: white;
+  border-radius: 5px;
+
+  border: 1px solid #6e42e5;
+}
+.payment-button:hover {
+  background-color: #ffffff;
+  color: #6e42e5;
+  border: 1px solid #6e42e5;
+  transition: ease-in-out;
+}
